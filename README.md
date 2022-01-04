@@ -3,5 +3,7 @@ The configs that I use for mpv. On Windows, these files are to be dropped inside
 
 Another useful repository for external shaders. https://github.com/iwalton3/default-shader-pack
 
-FSRCNN here. https://github.com/igv/FSRCNN-TensorFlow/releases  
+FSRCNN here. https://github.com/igv/FSRCNN-TensorFlow/releases
+
+If you don't like how mpv handles setting tracks by default (I don't) grab and configure this. https://github.com/po5/trackselect  
 TODO: Backup Koto's config and integrate parts of it into my config.
